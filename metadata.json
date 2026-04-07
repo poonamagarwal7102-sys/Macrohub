@@ -1,0 +1,5 @@
+{
+  "name": "GlobalMacro Insight",
+  "description": "A high-performance macroeconomic dashboard providing 6-year historical trends (2021-2026) and real-time data for over 25 countries across North America, Central America, South America, Asia, Africa, and Europe using Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
